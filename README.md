@@ -1,6 +1,6 @@
 # calculus-微積分
 '''
-成功的方法有很多，但它們有一個共性：努力，努力，再努力！
+成功的方法有很多，所有的方法都需要實踐者：努力，努力，再努力！
 '''
 
 ## Limits: limits of sequences and limits of functions
