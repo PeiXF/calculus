@@ -8,5 +8,5 @@
 ## Integral
 
 ## References:
-[1]. Vladimir A. Aorich, Mathematical Analysis I, Springer.
-[2]. Vladimir A. Aorich, Mathematical Analysis I, Springer.
+* [1]. Vladimir A. Aorich, Mathematical Analysis I, Springer.
+* [2]. Vladimir A. Aorich, Mathematical Analysis I, Springer.
